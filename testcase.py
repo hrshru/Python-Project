@@ -7,7 +7,6 @@ for i in range(n):
         
     print(list)
 a=(max(list))
-    
 b=map(int, list[0])
 c=map(int, list[1])
 print(b+c)  
